@@ -1,7 +1,7 @@
 {
-  "name": "bandcamp-tracker",
+  "name": "game-guide-archiver",
   "version": "1.0.0",
-  "description": "Tracks artists and their performances and music releases on Bandcamp.",
+  "description": "Tracks game guides so the player can access them easily when they need help.",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
